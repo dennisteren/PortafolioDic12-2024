@@ -1,0 +1,10 @@
+<!--<link rel="stylesheet" type="text/css" href="css/estilos.css"> -->
+@import url("reseter.css");
+body{
+	background: #ff5733;
+}
+
+h1{
+	color:#ffffff;
+}
+<!-- @import url("reseter.css"); elimina espacios laterales-->
